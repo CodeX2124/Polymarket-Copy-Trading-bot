@@ -101,11 +101,15 @@ Below are included assets. Paths are relative to this folder.
 
 ![Workflow](./Workflow%20(1).webp)
 
-![Dashboard](./dashboard.PNG)
+![Dashboard – Positions](./Dashboard-positions.PNG)
 
-![Dashboard 2](./dashboard-2.PNG)
+![Dashboard – Activities](./Dashboard-activities.PNG)
 
-![Settings](./Setting.PNG)
+![Settings](./Settings.PNG)
+
+![My Wallet](./My%20wallet.PNG)
+
+![Target Wallet](./Target%20wallet.PNG)
 
 ## Contact
 - Email: codex199201@gmail.com
